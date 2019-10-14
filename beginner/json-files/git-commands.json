@@ -333,5 +333,8 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {   "title": "git fetch <remote>",
+      "description": "Fetch all of the branches from the repository. This also downloads all of the required commits and files from the other repository."
   }
 ]
